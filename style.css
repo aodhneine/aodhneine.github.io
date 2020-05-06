@@ -25,9 +25,10 @@ div.headline {
 
 div.headline p {
   margin: 0;
+  font-size: 2rem;
 }
 
 div.headline h1 {
   margin: 0;
-  font-style: bold;
+  font-weight: bold;
 }
