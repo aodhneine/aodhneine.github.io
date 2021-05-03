@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'Lora';
-  src: url('assets/Lora-VariableFont_wght.ttf'),
-    url('assets/Lora-Italic-VariableFont_wght.ttf');
+  src: url('assets/Lora-VariableFont_wght.ttf') format("truetype"),
+    url('assets/Lora-Italic-VariableFont_wght.ttf') format("truetype");
 }
 
 @font-face {
   font-family: 'Antonio';
-  src: url('assets/Antonio-VariableFont_wght.ttf');
+  src: url('assets/Antonio-VariableFont_wght.ttf') format("truetype");
 }
 
 h1, h2 {
