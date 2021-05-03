@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Lora';
+  src: url('assets/Lora-VariableFont_wght.ttf'),
+    url('assets/Lora-Italic-VariableFont_wght.ttf');
+}
+
+@font-face {
+  font-family: 'Antonio';
+  src: url('assets/Antonio-VariableFont_wght.ttf');
+}
+
+h1, h2 {
+  font-family: 'Antonio';
+  font-weight: 500;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.4em;
+}
+
+body {
+  font-family: 'Lora';
+}

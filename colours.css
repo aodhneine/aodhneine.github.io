@@ -1,0 +1,21 @@
+:root {
+  --text-colour: #302010;
+  --bg-colour: #fafaf8;
+  --accent-colour: #a09090;
+  --void-colour: #ececea;
+}
+
+body {
+  background-color: #ececea;
+}
+
+#everything {
+  background-color: var(--bg-colour);
+  color: var(--text-colour);
+  border-left: 1px solid var(--accent-colour);
+  border-right: 1px solid var(--accent-colour);
+}
+
+h2 {
+  border-bottom: 1px solid var(--accent-colour);
+}
